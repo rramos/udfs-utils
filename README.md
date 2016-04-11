@@ -27,7 +27,12 @@ GetDuration
  - **version:** 1.0
  - **Description:** Returns the duration seconds betteen two timestamps given as arguments
 
+GetLocalTime
+-------------
 
+ - **Code:** java
+ - **version:** 1.0
+ - **Description:** Returns the localtime given UTC formatted date string and IP address
 
 
 Source
