@@ -1,4 +1,4 @@
-**udf-utils**
+#udf-utils
 =========
 
 Just a simple collection of UDFS functions to use in hadoop
